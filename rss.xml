@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[diesch-autenrieth]]></title>
         <description><![CDATA[diesch-autenrieth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/diesch-autenrieth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 11:14:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 11:39:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/diesch-autenrieth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Philipp</p>]]></description>
+            <link>https://thegrid.ai/diesch-autenrieth/philipp/index.html</link>
+            <guid isPermaLink="false">1de2cb76-4cf8-4671-be76-b30e0f8875fa</guid>
+            <pubDate>Thu, 28 Apr 2016 11:39:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/723d516c-5612-4384-93ae-13da03fa4a33.jpg">]]></description>
-            <link>undefinedhome/index.html</link>
+            <link>https://thegrid.ai/diesch-autenrieth/home/index.html</link>
             <guid isPermaLink="false">1207e603-2abb-4b8b-b904-ae0fed57192c</guid>
             <pubDate>Thu, 28 Apr 2016 11:13:33 GMT</pubDate>
         </item>
