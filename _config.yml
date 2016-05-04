@@ -1,5 +1,4 @@
-favicon: null
-name: diesch-autenrieth
+layout_spectrum: 0.9812
 opengraph:
   image: null
   type: null
@@ -28,13 +27,14 @@ color:
     - '#FF3718'
     - '#FD715D'
   rhythmicContrast: 0.1637865013908595
-typography_spectrum: 0.8947535546030849
+typography_spectrum: 0.5573356
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9812
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: diesch-autenrieth
