@@ -1,28 +1,40 @@
-name: diesch-autenrieth
 favicon: null
-layout_spectrum: 0.9812
-typography_spectrum: 0.8947535546030849
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: diesch-autenrieth
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ffffff'
-    - '#010206'
-    - '#e13946'
-    - '#ee8f96'
-    - '#696a6c'
+  saturation: 0.6226957335602492
   brandStrength: 0.4730234674643725
   lightness: 0.8411397498566657
-  saturation: 0.6226957335602492
-  rhythmicContrast: 0.16378650139085948
-purpose: []
+  brandColors:
+    - '#FFFFFF'
+    - '#C0C0C0'
+    - '#594635'
+    - '#FF3718'
+    - '#FD715D'
+  rhythmicContrast: 0.1637865013908595
+typography_spectrum: 0.8947535546030849
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9812
+analytics:
+  twitter: null
+  google: null
+  facebook: null
