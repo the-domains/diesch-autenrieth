@@ -1,8 +1,7 @@
+name: diesch-autenrieth
+favicon: null
 layout_spectrum: 0.9812
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5573356
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6226957335602492
-  brandStrength: 0.4730234674643725
-  lightness: 0.8411397498566657
-  brandColors:
-    - '#FFFFFF'
-    - '#C0C0C0'
-    - '#594635'
-    - '#FF3718'
-    - '#FD715D'
-  rhythmicContrast: 0.1637865013908595
-typography_spectrum: 0.5573356
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-favicon: null
-name: diesch-autenrieth
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#dceaf9'
+    - '#6d85ad'
+    - '#99aecb'
+    - '#040610'
+    - '#2f3446'
+  brandStrength: 0.4730234674643725
+  lightness: 0.8411397498566657
+  saturation: 0.6226957335602492
+  rhythmicContrast: 0.1637865013908595
+purpose: []
